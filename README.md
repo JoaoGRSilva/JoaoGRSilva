@@ -19,12 +19,7 @@
       />
     </td>
     <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoGRSilva&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoGRSilva&show_icons=true&theme=radical)
     </td>
   </tr>
 </table>
