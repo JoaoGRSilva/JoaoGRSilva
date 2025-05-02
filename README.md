@@ -27,7 +27,7 @@
 
 
 ## 📌 Projetos Destacados  
-🔹 **[Projeto 1]([https://github.com/SEU-USUÁRIO/projeto1](https://github.com/JoaoGRSilva/Questionario))** - Projeto desenvolvido para o Projeto Integrador Multidisciplinar da UNIP para o 4º Semestre, onde desenvolvemos um APP de questionario sobre a possivel primeira viagem do homem a marte
-🔹 **[Projeto 2]([https://github.com/SEU-USUÁRIO/projeto2](https://github.com/JoaoGRSilva/Localizador-Excel))** - Retenção 5D é um aplicativo desenvolvido para realizar pesquisas de CPF e fornecer ofertas personalizadas com base no fx_score do cliente
+🔹 **[Projeto 1]([[https://github.com/SEU-USUÁRIO/projeto1](https://github.com/JoaoGRSilva/Questionario)])** - Projeto desenvolvido para o Projeto Integrador Multidisciplinar da UNIP para o 4º Semestre, onde desenvolvemos um APP de questionario sobre a possivel primeira viagem do homem a marte
+🔹 **[Projeto 2]([[https://github.com/SEU-USUÁRIO/projeto2])** - Retenção 5D é um aplicativo desenvolvido para realizar pesquisas de CPF e fornecer ofertas personalizadas com base no fx_score do cliente
 
 ---
