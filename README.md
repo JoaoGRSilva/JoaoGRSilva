@@ -22,28 +22,12 @@
 ---
 
 ## 🌐 Conecte-se  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/jo%C3%Ao-gabriel-95268b232)  
 
----
 
-## 🎯 Metas 202X  
-- [ ] Publicar 10 projetos open-source  
-- [ ] Dominar [tecnologia específica]  
-- [ ] Contribuir para projetos da comunidade  
-
----
 
 ## 📌 Projetos Destacados  
-🔹 **[Projeto 1](https://github.com/SEU-USUÁRIO/projeto1)** - Descrição breve do projeto  
-🔹 **[Projeto 2](https://github.com/SEU-USUÁRIO/projeto2)** - Descrição breve do projeto  
+🔹 **[Projeto 1]([https://github.com/SEU-USUÁRIO/projeto1](https://github.com/JoaoGRSilva/Questionario))** - Projeto desenvolvido para o Projeto Integrador Multidisciplinar da UNIP para o 4º Semestre, onde desenvolvemos um APP de questionario sobre a possivel primeira viagem do homem a marte
+🔹 **[Projeto 2]([https://github.com/SEU-USUÁRIO/projeto2](https://github.com/JoaoGRSilva/Localizador-Excel))** - Retenção 5D é um aplicativo desenvolvido para realizar pesquisas de CPF e fornecer ofertas personalizadas com base no fx_score do cliente
 
 ---
-
-## 📝 Blog  
-✍️ Escrevo sobre [tópico] em [link-do-blog]  
-*Se não tiver blog, substitua por outra seção relevante*
-
----
-
-📌 **Dica:** Atualize periodicamente com seus novos projetos e conquistas!  
