@@ -14,10 +14,10 @@
 ---
 
 ## 🛠 Habilidades  
-[![Tecnologia](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
-[![Tecnologia](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://pt-br.reactjs.org/)  
-[![Tecnologia](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)  
-*Substitua pelas suas tecnologias principais usando [Shields.io](https://shields.io/)*  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
