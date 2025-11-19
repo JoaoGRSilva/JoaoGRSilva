@@ -22,7 +22,7 @@
 ---
 
 ## 🌐 Conecte-se  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/jo%C3%Ao-gabriel-95268b232)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogrdasilva/)  
 
 
 
