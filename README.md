@@ -1,6 +1,5 @@
 # Olá, eu sou João Gabriel 👋  
 🌱 Atualmente aprendendo: Python e Dados
-🔭 Trabalhando em: [RPA Consultor](https://github.com/JoaoGRSilva/RPA_Consultor)
 📫 Contato: joaogabriel975@hotmail.com
 
 ---
