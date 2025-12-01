@@ -27,7 +27,7 @@
 
 ## 📌 Projetos Destacados
 
-🔹 **[![Projeto 1](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/JoaoGRSilva/Web-ExploraTech)** - Projeto desenvolvido para o Projeto Integrador Multidisciplinar da UNIP para o 4º Semestre, onde desenvolvemos um APP de questionario sobre a possivel primeira viagem do homem a marte
+🔹 **[![Projeto 1]([![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#))](https://github.com/JoaoGRSilva/Web-ExploraTech)** - Projeto desenvolvido para o Projeto Integrador Multidisciplinar da UNIP para o 4º Semestre, onde desenvolvemos um APP de questionario sobre a possivel primeira viagem do homem a marte
 
 🔹 **[![Projeto 2](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/JoaoGRSilva/Consulta-5D)** - Retenção 5D é um aplicativo desenvolvido para realizar pesquisas de CPF e fornecer ofertas personalizadas com base no fx_score do cliente
 
