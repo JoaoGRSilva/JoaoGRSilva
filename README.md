@@ -1,6 +1,6 @@
 # Olá, eu sou João Gabriel 👋  
-🌱 Atualmente aprendendo: Python e Dados
-📫 Contato: joaogabriel975@hotmail.com
+- 🌱 Atualmente aprendendo: Python e Dados
+- 📫 Contato: joaogabriel975@hotmail.com
 
 ## 📊 GitHub Analytics  
 <div align="center">  
