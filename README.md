@@ -1,6 +1,5 @@
-# Olá, eu sou João Gabriel 👋  
-- 🌱 Atualmente aprendendo: Python e Dados
-- 📫 Contato: joaogabriel975@hotmail.com
+# Olá! Eu sou o João Gabriel :smile: :books: :globe_with_meridians:
+__ Desenvolvedor Backend Jr. Busco aplicar conhecimentos em Python, C#, APIs REST, manipulação de dados e automação para criar soluções eficientes, escaláveis e integradas. __
 
 ## 📊 GitHub Analytics  
 <div align="center">  
