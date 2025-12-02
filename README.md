@@ -16,13 +16,6 @@ Aproveite e me encontre nas redes sociais:
 
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaogrsilva&theme=solarized_dark)](#)
 
-# 📌 Projetos Destacados
-
-🔹 **[![Projeto 1](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/JoaoGRSilva/api-ExploraTech)** - Aplicação desktop em WPF que coleta respostas de visitantes e envia os dados para a API de Questionário.
-Serve como interface visual do sistema, garantindo uma experiência simples, rápida e acessível ao usuário.
-
-🔹 **[![Projeto 2](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/JoaoGRSilva/Consulta-5D)** - Retenção 5D é um aplicativo desenvolvido para realizar pesquisas de CPF e fornecer ofertas personalizadas com base no fx_score do cliente
-
-🔹 **[![Projeto 3](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/JoaoGRSilva/RPA_Consultor)** - RPA 
-
 # Obrigado por visitar o meu perfil :wave:
+
+Meus principais projetos se encontram fixados a baixo!
